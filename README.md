@@ -1,15 +1,17 @@
 # Domain-Search-Wordpress
 Domain Search Wordpress Simple and fast domain search form via AJAX
 /**
- * Plugin Name: Domain Search for Wordpress
- * Plugin URI: https://yourwebsite.com/plugins/domain-search-for-Wordpress
- * Description: Domain Search for Wordpress is a lightweight yet powerful WordPress plugin integrating domain availability checks via RDAP with seamless Wordpress checkout support, configurable via admin panel.
+ * Plugin Name: Domain Search
+ * Description: Domain Search for billing is a lightweight yet powerful WordPress plugin integrating domain availability checks via RDAP with seamless billing checkout support, configurable via admin panel.
  * Version: 1.3
- * Author: Your Name
- * Author URI: https://yourwebsite.com
- * Text Domain: domain-search-Wordpress
- *
- * Key Features:
+ * Author: APIKU.ID
+ * Plugin URI: https://apiku.id/
+ * Author URI: https://apiku.id
+ * License: GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Requires at least: 6.x
+ * Requires PHP: 7.4
+* Key Features:
  * - Simple and fast domain search form via AJAX
  * - Fully customizable placeholder and shortcode tag
  * - Default and per-instance checkout URL configuration
